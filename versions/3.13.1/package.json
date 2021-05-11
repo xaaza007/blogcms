@@ -97,7 +97,7 @@
     "keypair": "1.0.1",
     "knex": "0.20.13",
     "knex-migrator": "3.4.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "mailgun-js": "0.22.0",
     "metascraper": "5.11.8",
     "metascraper-author": "5.11.8",
