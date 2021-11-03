@@ -125,7 +125,7 @@
     "semver": "7.2.1",
     "simple-dom": "0.3.2",
     "uuid": "7.0.3",
-    "validator": "6.3.0",
+    "validator": "13.7.0",
     "xml": "1.0.1"
   },
   "optionalDependencies": {
